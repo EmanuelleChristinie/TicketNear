@@ -29,8 +29,7 @@ A plataforma atua como um **radar centralizado e inteligente**, identificando a 
 
 Este repositório possui uma demonstração navegável construída com tecnologias web puras (HTML5, CSS3 com variáveis dinâmicas e JavaScript vanilla) para simular toda a jornada do usuário.
 
-> 🌐 **[Clique aqui para abrir o Protótipo Interativo no GitHub Pages](https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/)**  
-> *(Nota: Substitua a URL acima pelo link gerado nas configurações do seu GitHub Pages)*
+> 🌐 **[Clique aqui para abrir o Protótipo Interativo no GitHub Pages](https://emanuellechristinie.github.io/TicketNear/)**  
 
 ### 📱 Recursos do Protótipo
 - **Navegação Multitelas:** Alternância instantânea entre radar de eventos, mapa espacial, detalhes da sessão e tela de ingressos.
